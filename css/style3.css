@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fontstyle {
+    color: red;
+    margin-left: 25px;
+    font-weight: 550;
+}
+
+.font {
+    color: red;
+    margin-left: 50px;
+    margin-bottom: 12px;
+}
+
+.fonts {
+    color: blue;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+.href {
+    color: blue;
+    margin-left: 25px;
+    font-weight: 550;
+}
+
+.justify {
+    color: red;
+    border: 2px dashed black;
+    margin-left: 25px;
+    padding-left: 15px;
+    width: 450px;
+    padding: 11px;
+    margin-bottom: 12px;
+}
+
+.basliq {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+
+.table {
+    color: blue;
+    margin-left: 25px;
+    font-weight: 550;
+}
+
+.tables {
+    color: blue;
+    margin-left: 50px;
+}
+
+.justifyp {
+    font-weight: 550;
+}

@@ -1,0 +1,44 @@
+.border1 {
+    color: darkgrey;
+}
+
+.border2 {
+    border: 1px dotted black;
+    color: darkgrey;
+    margin-top: 10px;
+}
+.border3 {
+    border: 1px dashed black;
+    color: darkgrey;
+    margin-top: 10px;
+}
+.border4 {
+    border: 1px solid black;
+    color: darkgrey;
+    margin-top: 10px;
+}
+.border5 {
+    border: 2px double black;
+    color: darkgrey;
+    margin-top: 10px;
+}
+.border6 {
+    border: 3px groove green;
+    color: darkgrey;
+    margin-top: 10px;
+}
+.border7 {
+    border: 4px ridge green;
+    color: darkgrey;
+    margin-top: 10px;
+}
+.border8 {
+    border: 3px inset green;
+    color: darkgrey;
+    margin-top: 10px;
+}
+.border9 {
+    border: 3px outset green;
+    color: darkgrey;
+    margin-top: 10px;
+}

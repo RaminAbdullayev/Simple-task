@@ -1,0 +1,58 @@
+.border1 {
+    color: red;
+    text-align: center;
+}
+.border2 {
+    border: 2px dotted blue;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+.border3 {
+    border: 2px dashed blue;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+.border4 {
+    border: 2px solid blue;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+.border5 {
+    border: 2px double blue;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+.border6 {
+    border: 2px groove blue;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+.border7 {
+    border: 2px ridge blue;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+.border8 {
+    border: 2px inset blue;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+.border9 {
+    border: 2px outset blue;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+.border10 {
+    border: 2px hidden blue;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}

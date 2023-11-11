@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.metn {
+    margin-top: 22px;
+    margin-left: 50px;
+}
+.xett {
+    border: 1px solid darkgray;
+    margin: 22px 20px 24px 50px;
+    margin-right: 200px;
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.big{
+    font-size: 40px;
+}

@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    border: 2px dashed rgb(232, 96, 244) ;
+    color: rgb(232, 96, 244);
+    width: 250px;
+    margin: 5px auto;
+    margin-top: 15px;
+}
+
+.div2{
+    border: 3px solid red ;
+    width: 250px;
+    font-weight: 600;
+    color: red;
+    margin: 5px auto;
+    margin-top: 15px;
+}
+
+.div3{
+    border-top-width: 3px;
+    border-top-color: rgb(95, 97, 98);
+    border-top-style: solid;
+    border-left-width: 3px;
+    border-left-color: rgb(95, 97, 98);
+    border-left-style: solid;
+    width: 250px;
+    margin: 5px auto;
+    margin-top: 15px;
+    color: green;
+}

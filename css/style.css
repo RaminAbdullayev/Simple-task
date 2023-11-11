@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mavi {
+    border: 4px dotted blue  ;
+    margin: 15px auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.sari {
+    border: 4px dashed yellow  ;
+    margin: 15px auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.yasil {
+    border: 4px solid green  ;
+    margin: 15px auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
